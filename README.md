@@ -6,6 +6,8 @@
 This package collects data sets and various helper functions
 for ISLP.
 
+This fork publishes the documentation on [https://masteringdata.ai/ISLP](https://masteringdata.ai/ISLP).
+
 ## Install instructions
 
 ### Mac OS X / Linux
